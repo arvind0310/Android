@@ -1,0 +1,2 @@
+class MyRecyclerViewAdapter: Re {
+}
